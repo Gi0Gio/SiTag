@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SiTaG_API.props" />
+</Project>

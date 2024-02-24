@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SiTaG_API", "SiTaG_API\SiTaG_API.csproj", "{EFA62AA3-8961-4EA2-B277-48962EE63DD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFA62AA3-8961-4EA2-B277-48962EE63DD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFA62AA3-8961-4EA2-B277-48962EE63DD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFA62AA3-8961-4EA2-B277-48962EE63DD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFA62AA3-8961-4EA2-B277-48962EE63DD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F7B1329-7A9D-4760-B617-4E7B697DDB1D}
+	EndGlobalSection
+EndGlobal
