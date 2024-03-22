@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "dq+2fbr1OwGW3gEkcSt72x3u5OJjiQB1UocMKl8HJEXeTnaLVtx72aHhXUW35QlCtzVTFeCcE/+PTO6Bowxnwg==",
+  "dgSpecHash": "pytBzXlTEVccLmJyBi4ehC1K9sup+ay2NtOw7h5BuVCfbVg+OV0Y0IBipe4AAd+Yh3hi5bAhzdJOjxTpWY3ENQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zerok\\source\\repos\\SiTaG_API\\SiTaG_API\\SiTaG_API.csproj",
+  "projectFilePath": "C:\\All\\Code\\SiTag\\SiTag\\SiTaG_API\\SiTaG_API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\zerok\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\zerok\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\zerok\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\zerok\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
